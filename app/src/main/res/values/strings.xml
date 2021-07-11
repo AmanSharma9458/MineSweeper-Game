@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="saved_high_score_key">highscore</string>
+    <string name="last_time">lastTime</string>
+    <string name="make_a_custom_board">Make A Custom Board</string>
+    <string name="enter_the_number_of_rows">Enter the number of rows</string>
+    <string name="enter_the_number_of_columns">enter the number of columns</string>
+    <string name="enter_the_number_of_mines">enter the number of mines</string>
+    <string name="start">START</string>
+    <string name="textview">TextView</string>
+</resources>
